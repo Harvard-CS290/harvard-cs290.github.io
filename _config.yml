@@ -1,10 +1,10 @@
 # Site settings
 course_title: "CS290: Seminar on Effective Research Practices & Academic Culture"
 course_name: "CS290: Seminar on Effective Research Practices & Academic Culture"
-course_semester: "Fall 2022 - Spring 2023"
+course_semester: "Fall 2023 - Spring 2024"
 
 baseurl: "/harvard-cs290" # the subpath of your site, e.g. /blog/
-url: "https://yanivyacoby.github.io/" # the base hostname & protocol for your site
+url: "https://harvard-cs290.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Harvard University"
 schoolurl: 
