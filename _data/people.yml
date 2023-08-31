@@ -1,12 +1,12 @@
 instructors:
-  - name: Yaniv Yacoby
-    profile_pic: /_images/pp/yy.png
-    webpage: https://yanivyacoby.github.io/
+  - name: Satya Krishna
+    profile_pic: /_images/pp/satya.jpeg
+    webpage: https://satyapriyakrishna.com/
     pronouns: he/him
-  - name: Eura Shin
-    profile_pic: /_images/pp/eura.png
-    webpage: https://eurashin.github.io/
-    pronouns: she/her    
+  - name: Sonja Johnson-Yu
+    profile_pic: /_images/pp/sonja.jpg
+    webpage: https://sjohnsonyu.github.io/
+    pronouns: she/her
   - name: John Girash
     profile_pic: /_images/pp/jgirash.png
     webpage: https://scholar.harvard.edu/girash/home
@@ -15,17 +15,17 @@ instructors:
     profile_pic: /_images/pp/madhu.png
     webpage: https://madhu.seas.harvard.edu/
     pronouns: he/him
-    term: fall
-  - name: Flavio Calmon
-    profile_pic: /_images/pp/flavio-calmon.png
-    webpage: https://people.seas.harvard.edu/~flavio/
-    pronouns: he/him
-    term: spring
-  - name: Martin Wattenberg
-    profile_pic: /_images/pp/martin-wattenberg.png
-    webpage: https://www.bewitched.com/about.html
-    pronouns: he/him   
-    term: spring
+    # term: fall
+  # - name: Flavio Calmon
+  #   profile_pic: /_images/pp/flavio-calmon.png
+  #   webpage: https://people.seas.harvard.edu/~flavio/
+  #   pronouns: he/him
+  #   term: spring
+  # - name: Martin Wattenberg
+  #   profile_pic: /_images/pp/martin-wattenberg.png
+  #   webpage: https://www.bewitched.com/about.html
+  #   pronouns: he/him   
+  #   term: spring
 
 feedback:
   - name: Barbara Grosz
