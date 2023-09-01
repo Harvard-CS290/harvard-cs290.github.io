@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2023-03-31T09:45:00
+date: 2024-03-31T09:45:00
 name: Class
 description: 'Mental Health in Academia (part 2), and Life After the Ph.D.'
 hide_from_announcments: true

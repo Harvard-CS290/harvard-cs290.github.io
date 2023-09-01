@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2023-02-24T09:45:00
+date: 2024-02-24T09:45:00
 name: Class
 description: 'Diversity, Equity and Inclusion'
 hide_from_announcments: true

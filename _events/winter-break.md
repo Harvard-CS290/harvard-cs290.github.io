@@ -1,6 +1,6 @@
 ---
 type: due
-date: 2022-12-18
+date: 2023-12-18
 description: 'Winter Break'
 hide_from_announcments: true
 ---

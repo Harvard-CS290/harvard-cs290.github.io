@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2022-09-30T09:00:00
+date: 2023-10-13T09:45:00
 name: Class
 description: 'Communication in Collaborative Environments (Verbal)'
 hide_from_announcments: true

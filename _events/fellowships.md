@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2022-09-23T09:00:00
+date: 2023-09-29T09:45:00
 name: Class
 description: 'Fellowships'
 hide_from_announcments: true
