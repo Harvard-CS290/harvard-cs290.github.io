@@ -1,11 +1,11 @@
 ---
 type: raw_event
-date: 2024-02-24T09:45:00
+date: 2024-02-23T09:45:00
 name: Class
 description: 'Diversity, Equity and Inclusion'
 hide_from_announcments: true
 ---
-
+<!-- 
 **Pre-class Work:** (instructions on canvas)
 * Read:
   * [The Secret History of Women in Coding](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html){:target="_blank"}{:rel="noopener noreferrer"}
@@ -15,4 +15,4 @@ hide_from_announcments: true
 
 **In Class:** \[[slides]({{ site.baseurl }}/assets/DEI-part1.pdf){:target="_blank"}{:rel="noopener noreferrer"}\]
 * Discussion of barriers leading to equitable and fair participatory design
-* Guest: [Dr. Weiwei Pan](https://onefishy.github.io/){:target="_blank"}{:rel="noopener noreferrer"}
+* Guest: [Dr. Weiwei Pan](https://onefishy.github.io/){:target="_blank"}{:rel="noopener noreferrer"} -->

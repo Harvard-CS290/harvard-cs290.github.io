@@ -1,12 +1,12 @@
 ---
 type: raw_event
-date: 2024-03-31T09:45:00
+date: 2024-03-29T09:45:00
 name: Class
 description: 'Mental Health in Academia (part 2), and Life After the Ph.D.'
 hide_from_announcments: true
 ---
 
-**Pre-class Work:** (instructions on canvas)
+<!-- **Pre-class Work:** (instructions on canvas)
 * Read:
   * [Validation in Dialectical Behavior Therapy (DBT)](https://frtc.ltd/blog/dbt-validation){:target="_blank"}{:rel="noopener noreferrer"}
   * [The Jobs I Didn’t See: My Misconceptions of the Academic Job Market by Evan Peck](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422){:target="_blank"}{:rel="noopener noreferrer"}
@@ -15,4 +15,4 @@ hide_from_announcments: true
 
 **In Class:** \[[slides](https://docs.google.com/presentation/d/1MduwEVqMNu4_B6cbwZxf1UdUItx6W1fz1F59XOclxII/edit?usp=share_link){:target="_blank"}{:rel="noopener noreferrer"}\]
 * Part 1: Discussion of how to support your peers
-* Part 2: Life after the Ph.D.
+* Part 2: Life after the Ph.D. -->
