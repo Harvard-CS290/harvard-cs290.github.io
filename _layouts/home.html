@@ -28,7 +28,7 @@ layout: default
                 <h2>Instructors</h2>
                 {% for ins in site.data.people.instructors %}
                 <div class="image--cover-container">
-                    <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover" alt="Photo of {{ ins.name }}">
                     {% if ins.webpage %}
                     <p style="margin-bottom: 0px;"><a href="{{ ins.webpage }}" target="_blank">{{ins.name}}</a></p>
                     {% else %}
