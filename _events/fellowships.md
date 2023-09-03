@@ -13,4 +13,4 @@ hide_from_announcments: true
 
 **In Class:**
 * Discussion of effective scientific writing
-* Panel with the SEAS Graduate Writing Advisor [Suzanne Smith](https://scholar.harvard.edu/suzannesmith/home){:target="_blank"}{:rel="noopener noreferrer"}, and with Ph.D. students [Thierry Tambe](https://scholar.harvard.edu/ttambe/home){:target="_blank"}{:rel="noopener noreferrer"}, [Eura Shin](https://eurashin.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, [Ike Lage](https://isaaclage.github.io/){:target="_blank"}{:rel="noopener noreferrer"} and Samuel Hsia.
+* Panel with the SEAS Graduate Writing Advisor [Suzanne Smith](https://scholar.harvard.edu/suzannesmith/home){:target="_blank"}{:rel="noopener noreferrer"}, and with Ph.D. students (TBD)<!-- [Thierry Tambe](https://scholar.harvard.edu/ttambe/home){:target="_blank"}{:rel="noopener noreferrer"}, [Eura Shin](https://eurashin.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, [Ike Lage](https://isaaclage.github.io/){:target="_blank"}{:rel="noopener noreferrer"} and Samuel Hsia. -->
