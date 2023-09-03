@@ -40,7 +40,7 @@ you’re a PhD student and here to learn -- it wouldn’t make sense if you alre
 * [Professor Margo Seltzer's Tips on Writing a Thesis](http://mis-misinformation.blogspot.com/2012/03/margos-tips-on-writing-thesis.html){:target="_blank"}{:rel="noopener noreferrer"}
 * [Larry McEnerney: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM){:target="_blank"}{:rel="noopener noreferrer"}
 * About Graduate fellowship opportunities in Computer Science:
-  * Lists of fellowships compiled by [John Girash](https://wiki.harvard.edu/confluence/pages/viewpage.action?spaceKey=SEASDOCSOAP&title=List+of+external+fellowships){:target="_blank"}{:rel="noopener noreferrer"}, by [CMU](https://www.cs.cmu.edu/~gradfellowships/){:target="_blank"}{:rel="noopener noreferrer"}, and by [NC State](https://www.csc.ncsu.edu/dgp/fellowships.html){:target="_blank"}{:rel="noopener noreferrer"}
+  * Lists of fellowships compiled by [John Girash](https://wiki.harvard.edu/confluence/pages/viewpage.action?spaceKey=SEASDOCSOAP&title=List+of+external+fellowships){:target="_blank"}{:rel="noopener noreferrer"}, by [CMU](https://www.cs.cmu.edu/~gradfellowships/){:target="_blank"}{:rel="noopener noreferrer"}, and by [NC State](https://www.csc.ncsu.edu/academics/graduate/fellowships.php){:target="_blank"}{:rel="noopener noreferrer"}
   * Fellowship advice compiled by [Harvard](https://gsas.harvard.edu/financial-support/fellowships){:target="_blank"}{:rel="noopener noreferrer"} and by [MIT](https://oge.mit.edu/finances/fellowships/fellowship-tips/){:target="_blank"}{:rel="noopener noreferrer"}. 
 
 
