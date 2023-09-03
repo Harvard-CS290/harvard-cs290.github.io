@@ -13,5 +13,5 @@ hide_from_announcments: true
 * Answer reflection questions, and think of questions to ask the panel
 
 **In Class:** \[[slides](https://docs.google.com/presentation/d/1Gjat6uyWqzqed7Fp704BlNwYXM2OqLduGOInFbhtwLI/edit?usp=sharing){:target="_blank"}{:rel="noopener noreferrer"}\]
-* Panel on debugging unhealthy self-expectations with: TBD <!-- [Bahareh Tolooshams](https://btolooshams.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, [James Larisch](https://jameslarisch.com/){:target="_blank"}{:rel="noopener noreferrer"}, [Eura Shin](https://eurashin.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, and [Paula Rodriguez Diaz](https://paularodrid.wordpress.com/){:target="_blank"}{:rel="noopener noreferrer"}
-* Special note: *no faculty present* -->
+* Panel on debugging unhealthy self-expectations with: TBD <!-- [Bahareh Tolooshams](https://btolooshams.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, [James Larisch](https://jameslarisch.com/){:target="_blank"}{:rel="noopener noreferrer"}, [Eura Shin](https://eurashin.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, and [Paula Rodriguez Diaz](https://paularodrid.wordpress.com/){:target="_blank"}{:rel="noopener noreferrer"} -->
+* Special note: *no faculty present* 
