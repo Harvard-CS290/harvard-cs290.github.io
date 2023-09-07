@@ -32,7 +32,12 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 **Office Hours:** 
 * TBD
 <!-- 
-Yaniv: Fridays, 4-5pm @ SEC 1.401
+Madhu: Fridays, 11:30-12:30pm @ SEC 3.434
+John: Mondays, 3:30-4:30pm @ SEC 1.101
+Sonja: 
+Paula:
+Satya:
+
 Eura: Mondays, 3:30-4:30pm @ SEC 1.319 Lau Room 
 John: Wednesdays, 3:30-4:30pm @ SEC 1.101
 Martin: Wednesdays, 1-2pm @ SEC 4.305
