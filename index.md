@@ -36,12 +36,7 @@ Madhu: Fridays, 11:30-12:30pm @ SEC 3.434
 John: Mondays, 3:30-4:30pm @ SEC 1.101
 Sonja: 
 Paula:
-Satya:
-
-Eura: Mondays, 3:30-4:30pm @ SEC 1.319 Lau Room 
-John: Wednesdays, 3:30-4:30pm @ SEC 1.101
-Martin: Wednesdays, 1-2pm @ SEC 4.305
-Flavio: Mondays, 1-2pm @ SEC 3.306
+Satya: Mondays, 11-12pm @SEC 6.220
 -->
 
 <!--
