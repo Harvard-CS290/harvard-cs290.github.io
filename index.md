@@ -30,14 +30,12 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 **Grading:** The course is letter-graded based on your attendance, pre-class work, and participation. When there is pre-class work, this will be graded based on completion. We will be expecting attendance each week, and more than 1-2 absences, unless excused, may affect your final grade in the course.
 
 **Office Hours:** 
-* TBD
-<!-- 
-Madhu: Fridays, 11:30-12:30pm @ SEC 3.434
-John: Mondays, 3:30-4:30pm @ SEC 1.101
-Sonja: 
-Paula:
-Satya: Mondays, 11-12pm @SEC 6.220
--->
+* Satya: Mondays, 11-12pm @ SEC 6.220
+* John: Mondays, 3:30-4:30pm @ SEC 1.101
+* Sonja: Thursdays, 2:30-3:30pm @ SEC 1.404
+* Paula: Fridays (every week), 11:30-12:30pm @ tables outside 2.118
+* Madhu: Fridays (biweekly), 11:30-12:30pm @ SEC 3.434
+
 
 <!--
 We'll use this [calendar](https://calendar.google.com/calendar/u/0?cid=MXZwN2lmaHY1OG5pZnVuOTBicnJicGRoc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ){:target="_blank"}{:rel="noopener noreferrer"} (below) for exceptions.
