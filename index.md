@@ -37,10 +37,10 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 * Madhu: Fridays (biweekly), 11:30-12:30pm @ SEC 3.434
 
 
-<!--
-We'll use this [calendar](https://calendar.google.com/calendar/u/0?cid=MXZwN2lmaHY1OG5pZnVuOTBicnJicGRoc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ){:target="_blank"}{:rel="noopener noreferrer"} (below) for exceptions.
+We'll use this [calendar](https://calendar.google.com/calendar/embed?src=c_950c94ad68f472b1cb39cf8a7d4680a12e845d4147f857d1f7396292363603de%40group.calendar.google.com&ctz=America%2FNew_York){:target="_blank"}{:rel="noopener noreferrer"} (below) for exceptions.
 In addition to the regularly held office hours, additional office hours with any member of the course staff can be made by appointment. 
 
+<!--
 <iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&showCalendars=1&showTabs=1&showTitle=1&mode=AGENDA&src=MXZwN2lmaHY1OG5pZnVuOTBicnJicGRoc2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D50000" style="border-width:0" width="800" height="300" frameborder="0" scrolling="no"></iframe>
 
 <br/>
