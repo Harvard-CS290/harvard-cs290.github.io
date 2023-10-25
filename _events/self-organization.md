@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2024-01-26T09:45:00
+date: 2023-11-03T09:45:00
 name: Class
 description: 'Self-organization and time-management'
 hide_from_announcments: true

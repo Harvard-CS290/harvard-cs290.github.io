@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2023-11-03T09:45:00
+date: 2023-10-27T09:45:00
 name: Class
 description: 'Student-only Panel: Debugging Unhealthy Self-expectations'
 hide_from_announcments: true
