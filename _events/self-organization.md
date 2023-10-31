@@ -11,8 +11,8 @@ hide_from_announcments: true
 * Think through and list out your commitments for this semester (or next)
 
 
-<!-- **In Class:** \[slides: [part 1](https://docs.google.com/presentation/d/12c841Eh43RK4a2kr6MLjEwfHv6GMI47ixQJkIvF9HRE/edit?usp=share_link){:target="_blank"}{:rel="noopener noreferrer"}\]
-* Guests: [Sadé Abraham](https://dso.college.harvard.edu/people/sad%C3%A9-abraham){:target="_blank"}{:rel="noopener noreferrer"} and Dr. [Margaret Rennix](https://academicresourcecenter.harvard.edu/people/margaret-rennix){:target="_blank"}{:rel="noopener noreferrer"} -->
+**In Class:**
+* Guests: [Meaghan Fallano](https://academicresourcecenter.harvard.edu/people/meaghan-fallano){:target="_blank"}{:rel="noopener noreferrer"}, Assistant Director for STEM Support at [Harvard Academic Resource Center (ARC)](https://academicresourcecenter.harvard.edu/){:target="_blank"}{:rel="noopener noreferrer"}.
 
 
 
