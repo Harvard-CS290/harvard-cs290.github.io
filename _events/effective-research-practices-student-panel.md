@@ -10,6 +10,7 @@ hide_from_announcments: true
 
 **In Class:**
 * Student panel with panelists TBD
+
 <!-- 
 **Pre-class Work:** (instructions on canvas)
 * Read:
