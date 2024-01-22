@@ -1,14 +1,14 @@
 ---
 type: raw_event
-date: 2024-02-09T09:45:00
+date: 2024-02-02T09:45:00
 name: Class
 description: 'Communication with General Audiences'
 hide_from_announcments: true
 ---
 
-<!-- **Pre-class Work:** (instructions on canvas)
-* Revise your talk based on your peers' feedback and the class-wide discussion about story-telling. This time, you will be given 10min to present.
+**Pre-class Work:** (instructions on canvas)
+* Prepare a 5-min presentation (with slides) about your current research project, or a project you’ve worked on before, or a research paper you enjoy. Assume a general CS audience (e.g. your CS 290 classmates, who come from a variety of subdisciplines within CS!).
 
 **In Class:** 
-* The experiences of international and non-native English speakers in US-based conferences.
-* A continuation of last class. -->
+* Practice presenting to your peers
+

@@ -2,11 +2,11 @@
 type: raw_event
 date: 2024-03-01T09:45:00
 name: Class
-description: 'Diversity, Equity and Inclusion'
+description: 'Diversity, Equity and Inclusion + Faculty Panel'
 hide_from_announcments: true
 ---
 
-<!-- **Pre-class Work:** (instructions on canvas)
+**Pre-class Work:** (instructions on canvas)
 * Read:
   * [Who Collects the Data? A Tale of Three Maps](https://mit-serc.pubpub.org/pub/tale-of-three-maps/release/1){:target="_blank"}{:rel="noopener noreferrer"}
   * Horror Stories from Math:
@@ -19,4 +19,4 @@ hide_from_announcments: true
 
 **In Class:** \[[slides]({{ site.baseurl }}/assets/DEI-part2.pdf){:target="_blank"}{:rel="noopener noreferrer"}\]
 * Analysis of the above cases and of barriers to participatory design using formal frameworks
-* Guest: [Dr. Weiwei Pan](https://onefishy.github.io/){:target="_blank"}{:rel="noopener noreferrer"} -->
+* Guest: [Dr. Weiwei Pan](https://onefishy.github.io/){:target="_blank"}{:rel="noopener noreferrer"}

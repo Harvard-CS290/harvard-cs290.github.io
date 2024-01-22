@@ -2,7 +2,7 @@
 type: raw_event
 date: 2024-04-19T09:45:00
 name: Class
-description: 'Conclusion'
+description: 'How to Craft a Research Agenda + Conclusion'
 hide_from_announcments: true
 ---
 

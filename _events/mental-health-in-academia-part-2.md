@@ -2,9 +2,15 @@
 type: raw_event
 date: 2024-03-29T09:45:00
 name: Class
-description: 'Mental Health in Academia (part 2), and Life After the Ph.D.'
+description: 'Introduction to Teaching, pt. 1'
 hide_from_announcments: true
 ---
+
+ **Pre-class Work:** (instructions on canvas)
+ * TBD
+
+ **In Class:**
+ * TBD
 
 <!-- **Pre-class Work:** (instructions on canvas)
 * Read:

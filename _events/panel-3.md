@@ -2,7 +2,7 @@
 type: raw_event
 date: 2024-04-05T09:45:00
 name: Class
-description: 'Student-only Panel: Effective Research Practices'
+description: 'Introduction to Teaching, pt. 2'
 hide_from_announcments: true
 ---
 

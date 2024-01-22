@@ -2,9 +2,14 @@
 type: raw_event
 date: 2024-02-23T09:45:00
 name: Class
-description: 'Diversity, Equity and Inclusion'
+description: 'Student-only Panel: Effective Research Practices'
 hide_from_announcments: true
 ---
+**Pre-class Work:** 
+* TBD
+
+**In Class:**
+* Student panel with panelists TBD
 <!-- 
 **Pre-class Work:** (instructions on canvas)
 * Read:
