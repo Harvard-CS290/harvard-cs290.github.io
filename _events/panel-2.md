@@ -14,5 +14,5 @@ hide_from_announcments: true
 
 
 **In Class:** \[[slides](https://docs.google.com/presentation/d/1NZTPWdXZvdKvstrT0ZnjvlLDE4a-8XLXZKm_-8ttUig/edit?usp=sharing){:target="_blank"}{:rel="noopener noreferrer"}\]
-* Panel on managing advising relationships with: [Zana Buçinca](https://zbucinca.owlstown.net/){:target="_blank"}{:rel="noopener noreferrer"}, [Abhishek Sharma](https://abhishekshar.com/){:target="_blank"}{:rel="noopener noreferrer"}, [Jakob Troidl](https://jakobtroidl.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, [Anna Trella](https://annatrella.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, and [Lily Xu](https://lily-x.github.io/){:target="_blank"}{:rel="noopener noreferrer"}. -->
+* Panel on managing advising relationships with: [Zana Buçinca](https://zbucinca.owlstown.net/){:target="_blank"}{:rel="noopener noreferrer"}, [Abhishek Sharma](https://abhishekshar.com/){:target="_blank"}{:rel="noopener noreferrer"}, [Jakob Troidl](https://jakobtroidl.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, [Anna Trella](https://annatrella.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, and [Lily Xu](https://lily-x.github.io/){:target="_blank"}{:rel="noopener noreferrer"}.
 * Special note: *no faculty present*
