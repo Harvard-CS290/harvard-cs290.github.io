@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2023-09-08T09:45:00
+date: 2024-09-06T09:45:00
 name: Class
 description: 'Introduction'
 hide_from_announcments: true

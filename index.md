@@ -23,11 +23,11 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 
 ## Course Policy
 
-**Attendance:** Class attendance and participation is mandatory. If, due to extenuating circumstances, you need to miss class, please contact the course staff ahead of time. 
+**Attendance:** Class attendance and participation is mandatory. If, due to extenuating circumstances, you need to miss class, please contact the course staff ahead of time to request an excused absence. Even if you are absent from class, you are still expected to submit the homework.
 
-**COVID:** If you test positive, please stay home and notify the course staff. If you're feeling up for it, the course staff will arrange for you to attend class remotely.
+**COVID & Sickness:** If you are feeling unwell or test positive, please stay home and notify the course staff.
 
-**Grading:** The course is letter-graded based on your attendance, pre-class work, and participation. When there is pre-class work, this will be graded based on completion. We will be expecting attendance each week, and more than 1-2 absences, unless excused, may affect your final grade in the course.
+**Grading:** The course is letter-graded based on your attendance, pre-class work, and participation. When there is pre-class work, this will be graded based on completion. We will be expecting attendance each week, and every 2 classes with an unexcused absence will be penalized by 1 letter grade (e.g. A -> A-). Missing homework can also result in penalties.
 
 **Office Hours:** 
 * John: TBD

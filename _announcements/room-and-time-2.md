@@ -1,4 +1,4 @@
 ---
-date: 2023-08-11T10:00:00+3:30
+date: 2024-08-25T10:00:00+3:30
 ---
-9:45-11 will be structured class time, and 11-11:30 will serve as a "coffee hour" for cohort building.
+9:30 breakfast will be available, 9:45-11 is mandatory class time, and 11-11:30 are office hours/"coffee hour" for cohort building.

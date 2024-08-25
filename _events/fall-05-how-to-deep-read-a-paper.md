@@ -1,8 +1,8 @@
 ---
 type: raw_event
-date: 2023-10-06T09:45:00
+date: 2024-10-04T09:45:00
 name: Class
-description: 'How to read a theory paper'
+description: 'How to deep read a paper'
 hide_from_announcments: true
 ---
 

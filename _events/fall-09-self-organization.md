@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2023-11-03T09:45:00
+date: 2024-11-08T09:45:00
 name: Class
 description: 'Self-organization and time-management'
 hide_from_announcments: true
@@ -12,7 +12,7 @@ hide_from_announcments: true
 
 
 **In Class:**
-* Guests: [Meaghan Fallano](https://academicresourcecenter.harvard.edu/people/meaghan-fallano){:target="_blank"}{:rel="noopener noreferrer"}, Assistant Director for STEM Support at [Harvard Academic Resource Center (ARC)](https://academicresourcecenter.harvard.edu/){:target="_blank"}{:rel="noopener noreferrer"}.
+<!-- * Guests: [Meaghan Fallano](https://academicresourcecenter.harvard.edu/people/meaghan-fallano){:target="_blank"}{:rel="noopener noreferrer"}, Assistant Director for STEM Support at [Harvard Academic Resource Center (ARC)](https://academicresourcecenter.harvard.edu/){:target="_blank"}{:rel="noopener noreferrer"}. -->
 
 
 
