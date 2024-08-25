@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2023-11-17T09:45:00
+date: 2024-11-15T09:45:00
 name: Class
 description: 'Student-only Panel: Managing Advising Relationships'
 hide_from_announcments: true
@@ -13,6 +13,7 @@ hide_from_announcments: true
 * Answer reflection questions, and think of questions to ask the panel
 
 
-**In Class:** \[[slides](https://docs.google.com/presentation/d/1NZTPWdXZvdKvstrT0ZnjvlLDE4a-8XLXZKm_-8ttUig/edit?usp=sharing){:target="_blank"}{:rel="noopener noreferrer"}\]
-* Panel on managing advising relationships with: [Zana Buçinca](https://zbucinca.owlstown.net/){:target="_blank"}{:rel="noopener noreferrer"}, [Abhishek Sharma](https://abhishekshar.com/){:target="_blank"}{:rel="noopener noreferrer"}, [Jakob Troidl](https://jakobtroidl.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, [Anna Trella](https://annatrella.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, and [Lily Xu](https://lily-x.github.io/){:target="_blank"}{:rel="noopener noreferrer"}.
+**In Class:**
+<!-- \[[slides](https://docs.google.com/presentation/d/1NZTPWdXZvdKvstrT0ZnjvlLDE4a-8XLXZKm_-8ttUig/edit?usp=sharing){:target="_blank"}{:rel="noopener noreferrer"}\] -->
+<!-- * Panel on managing advising relationships with: [Zana Buçinca](https://zbucinca.owlstown.net/){:target="_blank"}{:rel="noopener noreferrer"}, [Abhishek Sharma](https://abhishekshar.com/){:target="_blank"}{:rel="noopener noreferrer"}, [Jakob Troidl](https://jakobtroidl.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, [Anna Trella](https://annatrella.github.io/){:target="_blank"}{:rel="noopener noreferrer"}, and [Lily Xu](https://lily-x.github.io/){:target="_blank"}{:rel="noopener noreferrer"}. -->
 * Special note: *no faculty present*

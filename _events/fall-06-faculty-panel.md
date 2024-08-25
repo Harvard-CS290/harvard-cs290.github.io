@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2023-10-20T09:45:00
+date: 2023-10-11T09:45:00
 name: Class
 description: 'Faculty Panel'
 hide_from_announcments: true
@@ -12,4 +12,4 @@ hide_from_announcments: true
 
 **In Class:**
 * Faculty panel about their expectations of students and experiences as students, as well as about their experiences as faculty
-* Guests: Professors [Sitan Chen](https://sitanchen.com/){:target="_blank"}{:rel="noopener noreferrer"}, [Finale Doshi-Velez](https://finale.seas.harvard.edu/){:target="_blank"}{:rel="noopener noreferrer"}, and [Krzysztof Gajos](https://www.eecs.harvard.edu/~kgajos/){:target="_blank"}{:rel="noopener noreferrer"}.
+<!-- * Guests: Professors [Sitan Chen](https://sitanchen.com/){:target="_blank"}{:rel="noopener noreferrer"}, [Finale Doshi-Velez](https://finale.seas.harvard.edu/){:target="_blank"}{:rel="noopener noreferrer"}, and [Krzysztof Gajos](https://www.eecs.harvard.edu/~kgajos/){:target="_blank"}{:rel="noopener noreferrer"}. -->
