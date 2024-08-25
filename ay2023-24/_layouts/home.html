@@ -1,0 +1,91 @@
+---
+layout: default
+---
+
+<div class="home">
+
+    <!--
+    <h1>{{ site.course_name }}</h1>
+    <span style="font-size: 20px;color: #0006;">{{ site.course_semester }} </span>
+    -->    
+    
+    {% include announcements.html %}
+    <br />
+    
+    <h1>Course Overview</h1>
+    {{ content }}
+
+    <br>
+    <div>
+        <div style="width:60%; float: left">
+            <!-- <h2>Instructors</h2> -->
+            <!-- <div class="image--cover-container">
+                <img src="{{site.data.people.instructor.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                <p>{{site.data.people.instructor.name}}</p>
+            </div> -->
+
+            <div class="profile-pic-gallary ">
+                <h2>Instructors</h2>
+                {% for ins in site.data.people.instructors %}
+                <div class="image--cover-container">
+                    <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover" alt="Photo of {{ ins.name }}">
+                    {% if ins.webpage %}
+                    <p style="margin-bottom: 0px;"><a href="{{ ins.webpage }}" target="_blank">{{ins.name}}</a></p>
+                    {% else %}
+                    <p style="margin-bottom: 0px;">{{ins.name}}</p>                    
+                    {% endif %}                    
+                    {% if ins.term %}
+                    <p style="margin-bottom: 0px;">[{{ ins.term }} term]</p>
+                    {% endif %}                    
+                    {% if ins.pronouns %}
+                    <p>({{ins.pronouns}})</p>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        
+    </div>
+    
+    <br style="clear:both">
+    <br/>
+    
+    {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
+    <h2>Previous Offerings</h2>
+    <ul class="previous-offerings">
+    {% for offer in site.data.previous_offering.offerings %}
+    <li><a href="{{ offer.url }}" target="_blank">{{offer.title}}</a></li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+    
+    <br/>
+    <div>
+        <h2>Acknowledgments</h2>
+        <p>
+            This course was originally created by <a href="https://yanivyacoby.github.io/">Yaniv Yacoby</a>,
+            who put a great deal of thought and effort into crafting its first two iterations, in collaboration
+            with <a href="https://eurashin.github.io/">Eura Shin</a>, <a href="https://parkes.seas.harvard.edu/">David Parkes</a>,
+            and <a href="https://scholar.harvard.edu/girash/home">John Girash</a>. There are a number of others who also aided
+            in the development of this course through their helpful discussions and insights:
+            {% for person in site.data.people.feedback %}
+                {% if person.webpage %}
+                <span><a href="{{ person.webpage }}" target="_blank">{{person.name}}</a>{% unless forloop.last %}, {% endunless %}</span>
+                {% else %}
+                <span>{{person.name}}{% unless forloop.last %}, {% endunless %}</span>
+                {% endif %}                
+            {% endfor %}
+        </p>        
+        <p>
+            This course draws on: 
+            {% for course in site.data.people.draws %}
+                {% if course.webpage %}
+                <span><a href="{{ course.webpage }}" target="_blank">{{course.name}}</a>{% unless forloop.last %}, {% endunless %}</span>
+                {% else %}
+                <span>{{course.name}}{% unless forloop.last %}, {% endunless %}</span>
+                {% endif %}                
+            {% endfor %}
+        </p>
+    </div>
+</div>

@@ -1,0 +1,45 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+<!--     <h2 class="footer-heading">{{ site.schoolname }}</h2> -->
+         <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+ 
+<!-- {{ site.address | newline_to_br  }} -->
+        <div class="site-footer-text">
+          <strong>Did you find this material useful?</strong>
+          <br/>
+          <i class="fas fa-lightbulb footer-icons"></i> Check out our <a href="https://arxiv.org/abs/2208.12650" target="_blank" rel="noopener noreferrer" style="color: #24305e;"><strong> SIGCSE paper</strong></a> about the course!
+          <br/>
+          <i class="fas fa-book footer-icons"></i> Looking to run a course like this? You may find our complete <a href="https://yanivyacoby.github.io/harvard-cs290-teaching-materials/" target="_blank" rel="noopener noreferrer" style="color: #24305e;"><strong> instructional materials</strong></a> helpful.
+          <br/>
+          <i class="fas fa-envelope footer-icons"></i> If you use these materials, let us know how it went -- we'd love to hear about it! 
+          <br/>
+          <i class="fas fa-link footer-icons"></i> And lastly, please cite our <a href="https://arxiv.org/abs/2208.12650" target="_blank" rel="noopener noreferrer" style="color: #24305e;"><strong>paper</strong></a> and reference our <a href="https://yanivyacoby.github.io/harvard-cs290-teaching-materials/" target="_blank" rel="noopener noreferrer" style="color: #24305e;"><strong>instructional materials</strong></a>.
+        </div>
+        
+      </div>
+
+      <div class="footer-col  footer-col-2">
+       <ul class="social-media-list">
+     
+
+          {% if site.schoolurl %}
+  <li>
+    <a href="{{site.schoolurl}}">
+      <i class="fas fa-globe" style="color:gray"></i> {{site.schoolurl |  remove: "https://" | remove: "http://" | remove: "www." }}
+    </a>
+  </li>
+{% endif %}
+
+
+
+       
+        </ul>
+      </div>
+    </div>
+
+  </div>
+
+</footer>

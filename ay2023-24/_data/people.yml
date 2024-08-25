@@ -1,0 +1,64 @@
+instructors:
+  - name: Sonja Johnson-Yu
+    profile_pic: /_images/pp/sonja.jpg
+    webpage: https://sjohnsonyu.github.io/
+    pronouns: she/her
+  - name: Satya Krishna
+    profile_pic: /_images/pp/satya.jpeg
+    webpage: https://satyapriyakrishna.com/
+    pronouns: he/him
+  - name: Paula Rodriguez Diaz
+    profile_pic: /_images/pp/paula.jpg
+    webpage: https://paularodrid.com/
+    pronouns: she/her
+  - name: John Girash
+    profile_pic: /_images/pp/jgirash.png
+    webpage: https://scholar.harvard.edu/girash/home
+    pronouns: he/him
+  - name: Madhu Sudan
+    profile_pic: /_images/pp/madhu.png
+    webpage: https://madhu.seas.harvard.edu/
+    pronouns: he/him
+    term: fall
+  # - name: Flavio Calmon
+  #   profile_pic: /_images/pp/flavio-calmon.png
+  #   webpage: https://people.seas.harvard.edu/~flavio/
+  #   pronouns: he/him
+  #   term: spring
+  - name: Martin Wattenberg
+    profile_pic: /_images/pp/martin-wattenberg.png
+    webpage: https://www.bewitched.com/about.html
+    pronouns: he/him   
+    term: spring
+
+feedback:
+  - name: Barbara Grosz
+    webpage: https://grosz.seas.harvard.edu/
+  - name: David Brooks
+    webpage: http://www.eecs.harvard.edu/~dbrooks/
+  - name: Finale Doshi-Velez
+    webpage: https://finale.seas.harvard.edu/
+  - name: Isaac Lage
+    webpage: https://isaaclage.github.io/
+  - name: Krzysztof Gajos
+    webpage: http://www.eecs.harvard.edu/~kgajos/
+  - name: Lillian Pentecost
+    webpage: https://lpentecost.github.io/cv/
+  - name: Margo Seltzer
+    webpage: https://www.seltzer.com/margo/
+  - name: Sam Hsia
+    webpage: 
+  - name: Udit Gupta
+    webpage: https://ugupta.com/
+  - name: Weiwei Pan
+    webpage: https://onefishy.github.io/
+  - name: Zana Buçinca
+    webpage: https://zbucinca.owlstown.net/
+
+draws:
+  - name: Justine Sherry's seminar "Reading on Research"
+    webpage: https://docs.google.com/document/d/1L610weeNT_KDe6gPgjHjuN4rBSnsI0NfwE2RZCLuKgE/edit
+  - name: Weiwei Pan's seminar "Diversity, Inclusion and Leadership in Tech"
+    webpage: https://onefishy.github.io/DIL_in_tech/
+  - name: Yaniv Yacoby's workshop "How to make the most out of your PhD"
+    webpage: https://yanivyacoby.github.io/a-guide-to-your-phd/
