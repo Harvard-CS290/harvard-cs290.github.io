@@ -30,17 +30,17 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 **Grading:** The course is letter-graded based on your attendance, pre-class work, and participation. When there is pre-class work, this will be graded based on completion. We will be expecting attendance each week, and more than 1-2 absences, unless excused, may affect your final grade in the course.
 
 **Office Hours:** 
-* John: Mondays 3-4pm @ SEC 1.101
-* Paula: Tuesdays 4-5pm @ SEC 1.404
-* Martin: Wednesdays 1-2pm @ SEC 4.305
-* Satya: Wednesdays 9-10am @ SEC 6th floor
-* Sonja: Fridays 11:30am-12:30pm @ SEC 1.404
+* John: TBD
+* Madhu: TBD
+* Sonja: TBD
+* Sonia: TBD
+<!-- * Martin: Wednesdays 1-2pm @ SEC 4.305 -->
 
 
-We'll use this [calendar](https://calendar.google.com/calendar/embed?src=c_950c94ad68f472b1cb39cf8a7d4680a12e845d4147f857d1f7396292363603de%40group.calendar.google.com&ctz=America%2FNew_York){:target="_blank"}{:rel="noopener noreferrer"} (below) for exceptions.
+We'll use this [calendar](https://calendar.google.com/calendar/embed?src=c_9fc37fccbadfc8b18efadd4427eae6686be77c9b4373723f983ee4151a194d7a%40group.calendar.google.com&ctz=America%2FNew_York){:target="_blank"}{:rel="noopener noreferrer"} (below) for exceptions.
 In addition to the regularly held office hours, additional office hours with any member of the course staff can be made by appointment. 
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_950c94ad68f472b1cb39cf8a7d4680a12e845d4147f857d1f7396292363603de%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_9fc37fccbadfc8b18efadd4427eae6686be77c9b4373723f983ee4151a194d7a%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 <br/>
 
 
