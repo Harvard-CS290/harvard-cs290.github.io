@@ -1,12 +1,12 @@
 items:
 - url: /ay2023-24/
-  name: Home
+  name: Home (AY2023-24)
   icon_class: fa fa-home fa-lg
 
 - url: /schedule/ay2023-24/
-  name: Schedule
+  name: Schedule (AY2023-24)
   icon_class: fas fa-calendar-alt
 
 - url: /readings/ay2023-24/
-  name: Readings
+  name: Readings (AY2023-24)
   icon_class: fas fa-book
