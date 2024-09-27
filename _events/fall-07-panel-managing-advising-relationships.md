@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2024-11-15T09:45:00
+date: 2024-10-18T09:45:00
 name: Class
 description: 'Student-only Panel: Managing Advising Relationships'
 hide_from_announcments: true
