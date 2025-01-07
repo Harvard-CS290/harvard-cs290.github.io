@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2024-02-02T09:45:00
+date: 2025-02-07T09:45:00
 name: Class
 description: 'Communication with General Audiences, pt. 2'
 hide_from_announcments: true

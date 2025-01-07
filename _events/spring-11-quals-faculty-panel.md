@@ -1,8 +1,8 @@
 ---
 type: raw_event
-date: 2024-04-12T09:45:00
+date: 2025-04-18T09:45:00
 name: Class
-description: 'Life after the PhD Panel: Academia, Industry, and Beyond'
+description: 'The Qual + Faculty Panel'
 hide_from_announcments: true
 ---
 <!-- 
