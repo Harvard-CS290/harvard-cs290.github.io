@@ -30,11 +30,10 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 **Grading:** The course is letter-graded based on your attendance, pre-class work, and participation. When there is pre-class work, this will be graded based on completion. We will be expecting attendance each week, and every 2 classes with an unexcused absence will be penalized by 1 letter grade (e.g. A -> A-). Missing homework can also result in penalties.
 
 **Office Hours:** 
-* John: TBD
-* Madhu: TBD
-* Sonja: TBD
-* Sonia: TBD
-<!-- * Martin: Wednesdays 1-2pm @ SEC 4.305 -->
+* John: Monday 11am-12pm @ SEC 1.101
+* Martin: Thursday 9:30-10:30am @ SEC 4.305
+* Sonja: Wednesday 2:30-3:30 @ SEC 1.404
+* Sonia: Friday 1-2pm @ TBD
 
 
 We'll use this [calendar](https://calendar.google.com/calendar/embed?src=c_9fc37fccbadfc8b18efadd4427eae6686be77c9b4373723f983ee4151a194d7a%40group.calendar.google.com&ctz=America%2FNew_York){:target="_blank"}{:rel="noopener noreferrer"} (below) for exceptions.

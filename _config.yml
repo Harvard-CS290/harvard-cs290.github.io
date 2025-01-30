@@ -1,6 +1,6 @@
 # Site settings
-course_title: "CS2901: Seminar on Effective Research Practices & Academic Culture"
-course_name: "CS2901: Seminar on Effective Research Practices & Academic Culture"
+course_title: "CS2901/2: Seminar on Effective Research Practices & Academic Culture"
+course_name: "CS2901/2: Seminar on Effective Research Practices & Academic Culture"
 course_semester: "Fall 2024 - Spring 2025"
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
