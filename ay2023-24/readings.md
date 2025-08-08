@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Readings (AY 2023-24)
-permalink: /ay2023-24/readings/
+title: Readings
+permalink: /readings/
 ---
 
 We, as a society, hold beliefs about science that may be romanticized and inaccurate. 
