@@ -2,6 +2,7 @@
 layout: home
 ---
 
+# NOTE! This is the website for academic year 2023-24. If you are a current G1, please refer to https://harvard-cs290.github.io/ for the current website.
 
 This is a reading and discussion-based seminar designed for entering Computer Science Ph.D. students. This course prepares students to manage the difficult and often undiscussed challenges of Ph.D. programs through sessions on:
 1. Research skill building (e.g. paper reading, communication) 
@@ -23,23 +24,24 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 
 ## Course Policy
 
-**Attendance:** Class attendance and participation is mandatory. If, due to extenuating circumstances, you need to miss class, please contact the course staff ahead of time to request an excused absence. Even if you are absent from class, you are still expected to submit the homework.
+**Attendance:** Class attendance and participation is mandatory. If, due to extenuating circumstances, you need to miss class, please contact the course staff ahead of time. 
 
-**COVID & Sickness:** If you are feeling unwell or test positive, please stay home and notify the course staff.
+**COVID:** If you test positive, please stay home and notify the course staff. If you're feeling up for it, the course staff will arrange for you to attend class remotely.
 
-**Grading:** The course is letter-graded based on your attendance, pre-class work, and participation. When there is pre-class work, this will be graded based on completion. We will be expecting attendance each week, and every 2 classes with an unexcused absence will be penalized by 1 letter grade (e.g. A -> A-). Missing homework can also result in penalties.
+**Grading:** The course is letter-graded based on your attendance, pre-class work, and participation. When there is pre-class work, this will be graded based on completion. We will be expecting attendance each week, and more than 1-2 absences, unless excused, may affect your final grade in the course.
 
 **Office Hours:** 
-* John: Monday 11am-12pm @ SEC 1.101
-* Martin: Thursday 9:30-10:30am @ SEC 4.305
-* Sonja: Wednesday 2:30-3:30 @ SEC 1.404
-* Sonia: Friday 1-2pm @ TBD
+* John: Mondays 3-4pm @ SEC 1.101
+* Paula: Tuesdays 4-5pm @ SEC 1.404
+* Martin: Wednesdays 1-2pm @ SEC 4.305
+* Satya: Wednesdays 9-10am @ SEC 6th floor
+* Sonja: Fridays 11:30am-12:30pm @ SEC 1.404
 
 
-We'll use this [calendar](https://calendar.google.com/calendar/embed?src=c_9fc37fccbadfc8b18efadd4427eae6686be77c9b4373723f983ee4151a194d7a%40group.calendar.google.com&ctz=America%2FNew_York){:target="_blank"}{:rel="noopener noreferrer"} (below) for exceptions.
+We'll use this [calendar](https://calendar.google.com/calendar/embed?src=c_950c94ad68f472b1cb39cf8a7d4680a12e845d4147f857d1f7396292363603de%40group.calendar.google.com&ctz=America%2FNew_York){:target="_blank"}{:rel="noopener noreferrer"} (below) for exceptions.
 In addition to the regularly held office hours, additional office hours with any member of the course staff can be made by appointment. 
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_9fc37fccbadfc8b18efadd4427eae6686be77c9b4373723f983ee4151a194d7a%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_950c94ad68f472b1cb39cf8a7d4680a12e845d4147f857d1f7396292363603de%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 <br/>
 
 

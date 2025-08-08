@@ -3,9 +3,13 @@ instructors:
     profile_pic: /_images/pp/sonja.jpg
     webpage: https://sjohnsonyu.github.io/
     pronouns: she/her
-  - name: Sonia Murthy
-    profile_pic: /_images/pp/allenai-murthy-sonia.webp
-    webpage: https://www.soniamurthy.com/
+  - name: Satya Krishna
+    profile_pic: /_images/pp/satya.jpeg
+    webpage: https://satyapriyakrishna.com/
+    pronouns: he/him
+  - name: Paula Rodriguez Diaz
+    profile_pic: /_images/pp/paula.jpg
+    webpage: https://paularodrid.com/
     pronouns: she/her
   - name: John Girash
     profile_pic: /_images/pp/jgirash.png

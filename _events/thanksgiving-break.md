@@ -1,6 +1,6 @@
 ---
 type: due
-date: 2024-11-28
+date: 2023-11-24
 description: 'Thanksgiving Break'
 hide_from_announcments: true
 ---

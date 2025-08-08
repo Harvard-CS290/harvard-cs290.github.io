@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2025-03-14T09:45:00
+date: 2024-03-22T09:45:00
 name: Class
 description: 'Mental Health in Academia'
 hide_from_announcments: true

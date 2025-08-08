@@ -1,6 +1,6 @@
 ---
 type: raw_event
-date: 2025-01-31T09:45:00
+date: 2024-01-26T09:45:00
 # date: 2024-02-02T09:45:00
 name: Class
 description: 'Communication with General Audiences, pt. 1'
