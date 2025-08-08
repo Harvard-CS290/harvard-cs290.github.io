@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# NOTE! This is the website for academic year 2023-24. If you are a current G1, please refer to https://harvard-cs290.github.io/ for the current website.
+# NOTE! This is the website for academic year 2023-24. If you are a current G1, please refer to https://harvard-cs290-2025-26.github.io/ (or whichever year is relevant) for the current website.
 
 This is a reading and discussion-based seminar designed for entering Computer Science Ph.D. students. This course prepares students to manage the difficult and often undiscussed challenges of Ph.D. programs through sessions on:
 1. Research skill building (e.g. paper reading, communication) 
